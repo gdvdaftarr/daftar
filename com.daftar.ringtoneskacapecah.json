@@ -13,8 +13,8 @@
       "mopub_banner":"",
       "mopub_inter":"",
       "unityID":"4248527",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unity_inter":"interstitial",
+      "unity_banner":"banner",
       "fan_inter":"981545408591412_999151030164183",
       "fan_banner_native":"981545408591412_2709037092508893",
       "more_app":"https://play.google.com/store/apps/developer?id=Daftar"
