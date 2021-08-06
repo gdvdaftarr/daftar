@@ -1,0 +1,378 @@
+{
+  "Ads": [
+  {
+   "select_ads": "UNITY",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://play.google.com/store/apps/details?id=com.daftar.assalamualaikumstickerforwa",
+    "admob_interid": "",
+    "admob_bannerid": "",
+    "admob_openid": "",
+    "admob_rewardid":"",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "",
+    "mopub_inter": "",
+    "mopub_reward":"",
+    "applovin_banner": "",
+    "applovin_inter": "",
+    "applovin_reward":"",
+    "unityID":"4250159",
+    "unity_inter":"interstitial",
+    "unity_banner":"banner",
+    "mode_promo":"",  
+    "icon_promo":"",
+    "title_promo":"",
+    "description-promo":"",
+    "install_promo":""
+
+  }
+  ],
+  
+  "sticker_packs": [
+    {
+      "id": "1",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/1/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },{
+      "id": "2",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/2/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    }
+    ,{
+      "id": "3",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/3/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/4/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/5/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/6/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/7/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/8/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Assalamualaikum Sticker",
+      "folder_link":"file:///android_asset/9/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        }
+      ]
+    }
+  ]
+}
