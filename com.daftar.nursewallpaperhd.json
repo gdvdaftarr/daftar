@@ -1,752 +1,684 @@
 {
-   "Iklan":[
+  "Ads": [
+    {
+      "select_ads": "UNITY",
+      "select_backup_ads": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.daftar.nursewallpaperhd",
+      "admob_interid": "",
+      "admob_nativeid": "",
+      "admob_openid": "",
+      "interval": 3,
+      "startappid": "207572301",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "applovin_banner": "db4d5e8718b97d78",
+      "applovin_inter": "518cd97722c60b52",
+       "unityID":"4256041",
+    "unity_inter":"interstitial",
+    "unity_banner":"banner",
+      "packagename": "com.daftar.nursewallpaperhd"
+    }
+  ],
+  "More":[
       {
-         "status":"0",
-         "link":"https://play.google.com/store/apps/details?id=com.",
-         "interid":"ca-app-pub-3940256099942544/1033173712",
-         "nativeid":"ca-app-pub-3940256099942544/2247696110",
-         "openads":"ca-app-pub-3940256099942544/1033173712",
-         "interval":8,
-         "pengaturan_iklan":"2",
-         "fan_inter":"655224845144586_655224885144582",
-         "fan_banner_native":"655224845144586_655224881811249",
-         "startaap":"1234567890",
-         "mopub_banner":"",
-         "mopub_inter":"",
-         "unityID":"",
-         "unity_inter":"",
-         "unity_banner":""
+         "id":1,
+         "title":"",
+         "image":"",
+         "link":""
       }
-   ],
-   "More":[
-      
    ],
    "Categories":[
       {
          "id":1,
-         "nama_cat":"Nurse Wallpaper",
-         "gambar":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/iconnurse.png"
+         "name_category":"",
+         "image":""
       }
    ],
-   "Wallpaper":[
+   "Data":[
       {
          "id":1,
-         "id_wall":"001",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse1.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse1.jpg"
       },
       {
          "id":2,
-         "id_wall":"002",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse2.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse2.jpg"
       },
       {
          "id":3,
-         "id_wall":"003",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse3.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse3.jpg"
       },
       {
          "id":4,
-         "id_wall":"004",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse4.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse4.jpg"
       },
       {
          "id":5,
-         "id_wall":"005",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse5.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse5.jpg"
       },
       {
          "id":6,
-         "id_wall":"006",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse6.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse6.jpg"
       },
       {
          "id":7,
-         "id_wall":"007",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse8.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse7.jpg"
       },
       {
          "id":8,
-         "id_wall":"008",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse9.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse8.jpg"
       },
       {
          "id":9,
-         "id_wall":"009",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse10.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse9.jpg"
       },
       {
          "id":10,
-         "id_wall":"010",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse11.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse10.jpg"
       },
       {
          "id":11,
-         "id_wall":"011",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse12.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse11.jpg"
       },
       {
          "id":12,
-         "id_wall":"012",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse13.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse12.jpg"
       },
       {
          "id":13,
-         "id_wall":"013",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse17.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse13.jpg"
       },
       {
          "id":14,
-         "id_wall":"014",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse18.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse14.jpg"
       },
       {
          "id":15,
-         "id_wall":"015",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse20.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse15.jpg"
       },
       {
          "id":16,
-         "id_wall":"016",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse21.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse16.jpg"
       },
       {
          "id":17,
-         "id_wall":"017",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse22.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse17.jpg"
       },
       {
          "id":18,
-         "id_wall":"018",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse23.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse18.jpg"
       },
       {
          "id":19,
-         "id_wall":"019",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse24.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse19.jpg"
       },
       {
          "id":20,
-         "id_wall":"020",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse25.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse20.jpg"
       },
       {
          "id":21,
-         "id_wall":"021",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse26.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse21.jpg"
       },
       {
          "id":22,
-         "id_wall":"022",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse28.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse22.jpg"
       },
       {
          "id":23,
-         "id_wall":"023",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse29.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse23.jpg"
       },
       {
          "id":24,
-         "id_wall":"024",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse30.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse24.jpg"
       },
       {
          "id":25,
-         "id_wall":"025",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse31.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse25.jpg"
       },
       {
          "id":26,
-         "id_wall":"026",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse32.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse26.jpg"
       },
       {
          "id":27,
-         "id_wall":"027",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse33.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse27.jpg"
       },
       {
          "id":28,
-         "id_wall":"028",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse34.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse28.jpg"
       },
       {
          "id":29,
-         "id_wall":"029",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse35.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse29.jpg"
       },
       {
          "id":30,
-         "id_wall":"030",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse36.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse30.jpg"
       },
       {
          "id":31,
-         "id_wall":"031",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse37.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse31.jpg"
       },
       {
          "id":32,
-         "id_wall":"032",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse38.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse32.jpg"
       },
       {
          "id":33,
-         "id_wall":"033",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse39.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse33.jpg"
       },
       {
          "id":34,
-         "id_wall":"034",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse40.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse34.jpg"
       },
       {
          "id":35,
-         "id_wall":"035",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse41.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse35.jpg"
       },
       {
          "id":36,
-         "id_wall":"036",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse42.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse36.jpg"
       },
       {
          "id":37,
-         "id_wall":"037",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse43.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse37.jpg"
       },
       {
          "id":38,
-         "id_wall":"038",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse44.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse38.jpg"
       },
       {
          "id":39,
-         "id_wall":"039",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse45.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse39.jpg"
       },
       {
          "id":40,
-         "id_wall":"040",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse46.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse40.jpg"
       },
       {
          "id":41,
-         "id_wall":"041",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse47.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse41.jpg"
       },
       {
          "id":42,
-         "id_wall":"042",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse48.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse42.jpg"
       },
       {
          "id":43,
-         "id_wall":"043",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse49.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse43.jpg"
       },
       {
          "id":44,
-         "id_wall":"044",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse50.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse44.jpg"
       },
       {
          "id":45,
-         "id_wall":"045",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse51.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse45.jpg"
       },
       {
          "id":46,
-         "id_wall":"046",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse52.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse46.jpg"
       },
       {
          "id":47,
-         "id_wall":"047",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse53.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse47.jpg"
       },
       {
          "id":48,
-         "id_wall":"048",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse54.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse48.jpg"
       },
       {
          "id":49,
-         "id_wall":"049",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse55.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse49.jpg"
       },
       {
          "id":50,
-         "id_wall":"050",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse56.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse50.jpg"
       },
       {
          "id":51,
-         "id_wall":"051",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse57.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse51.jpg"
       },
       {
          "id":52,
-         "id_wall":"052",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse58.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse52.jpg"
       },
       {
          "id":53,
-         "id_wall":"053",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse59.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse53.jpg"
       },
       {
          "id":54,
-         "id_wall":"054",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse60.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse54.jpg"
       },
       {
          "id":55,
-         "id_wall":"055",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse61.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse55.jpg"
       },
       {
          "id":56,
-         "id_wall":"056",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse62.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse56.jpg"
       },
       {
          "id":57,
-         "id_wall":"057",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse63.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse57.jpg"
       },
       {
          "id":58,
-         "id_wall":"058",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse64.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse58.jpg"
       },
       {
          "id":59,
-         "id_wall":"059",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse65.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse59.jpg"
       },
       {
          "id":60,
-         "id_wall":"060",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse66.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse60.jpg"
       },
       {
          "id":61,
-         "id_wall":"061",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse67.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse61.jpg"
       },
       {
          "id":62,
-         "id_wall":"062",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse68.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse62.jpg"
       },
       {
          "id":63,
-         "id_wall":"063",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse69.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse63.jpg"
       },
       {
          "id":64,
-         "id_wall":"064",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse70.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse64.jpg"
       },
       {
          "id":65,
-         "id_wall":"065",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse71.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse65.jpg"
       },
       {
          "id":66,
-         "id_wall":"066",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse72.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse66.jpg"
       },
       {
          "id":67,
-         "id_wall":"067",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse73.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse67.jpg"
       },
       {
          "id":68,
-         "id_wall":"068",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse74.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse68.jpg"
       },
       {
          "id":69,
-         "id_wall":"069",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse75.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse69.jpg"
       },
       {
          "id":70,
-         "id_wall":"070",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse76.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse70.jpg"
       },
       {
          "id":71,
-         "id_wall":"071",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse77.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse71.jpg"
       },
       {
          "id":72,
-         "id_wall":"072",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse78.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse72.jpg"
       },
       {
          "id":73,
-         "id_wall":"073",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse79.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse73.jpg"
       },
       {
          "id":74,
-         "id_wall":"074",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse80.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse74.jpg"
       },
-      {
+	  {
          "id":75,
-         "id_wall":"075",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse81.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse75.jpg"
       },
       {
          "id":76,
-         "id_wall":"076",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse82.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse76.jpg"
       },
       {
          "id":77,
-         "id_wall":"077",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse83.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse77.jpg"
       },
       {
          "id":78,
-         "id_wall":"078",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse84.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse78.jpg"
       },
       {
          "id":79,
-         "id_wall":"079",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse85.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse79.jpg"
       },
       {
          "id":80,
-         "id_wall":"080",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse86.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse80.jpg"
       },
       {
          "id":81,
-         "id_wall":"081",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse87.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse81.jpg"
       },
       {
          "id":82,
-         "id_wall":"082",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse88.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse82.jpg"
       },
       {
          "id":83,
-         "id_wall":"083",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse89.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse83.jpg"
       },
       {
          "id":84,
-         "id_wall":"084",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse90.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse84.jpg"
       },
       {
          "id":85,
-         "id_wall":"085",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse91.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse85.jpg"
       },
       {
          "id":86,
-         "id_wall":"086",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse92.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse86.jpg"
       },
       {
          "id":87,
-         "id_wall":"087",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse93.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse87.jpg"
       },
       {
          "id":88,
-         "id_wall":"088",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse94.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse88.jpg"
       },
       {
          "id":89,
-         "id_wall":"089",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse95.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse89.jpg"
       },
       {
          "id":90,
-         "id_wall":"090",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse96.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse90.jpg"
       },
       {
          "id":91,
-         "id_wall":"091",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse97.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse91.jpg"
       },
       {
          "id":92,
-         "id_wall":"092",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse98.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse92.jpg"
       },
       {
          "id":93,
-         "id_wall":"093",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse99.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse93.jpg"
       },
       {
          "id":94,
-         "id_wall":"094",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse100.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse94.jpg"
       },
       {
          "id":95,
-         "id_wall":"095",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse101.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse95.jpg"
       },
       {
          "id":96,
-         "id_wall":"096",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse102.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse96.jpg"
       },
       {
          "id":97,
-         "id_wall":"097",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse103.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse97.jpg"
       },
       {
          "id":98,
-         "id_wall":"098",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse104.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse98.jpg"
       },
       {
          "id":99,
-         "id_wall":"099",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse105.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse99.jpg"
       },
       {
          "id":100,
-         "id_wall":"100",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse106.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse100.jpg"
       },
       {
          "id":101,
-         "id_wall":"101",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/nurse107.png"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse101.jpg"
       },
       {
          "id":102,
-         "id_wall":"102",
-         "nama_cat":"Nurse Wallpaper",
-         "judul":"Nurse Wallpaper",
-         "image":"https://untukgdevdaftarbaru.files.wordpress.com/2020/12/108.jpg"
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse102.jpg"
+      },
+      {
+         "id":103,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse103.jpg"
+      },
+      {
+         "id":104,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse104.jpg"
+      },
+      {
+         "id":105,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse105.jpg"
+      },
+      {
+         "id":106,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse106.jpg"
+      },
+      {
+         "id":107,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse107.jpg"
       }
-      
-      
-      
-      
-      
    ]
 }
