@@ -10,7 +10,7 @@
     "admob_bannerid": "",
     "admob_openid": "",
     "admob_rewardid":"",
-    "interval_intertitial": 5,
+    "interval_intertitial": 3,
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner": "YOUR_PLACEMENT_ID",
