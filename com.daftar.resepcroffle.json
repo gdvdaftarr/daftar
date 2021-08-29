@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Server Ready . . . ",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -35,7 +35,7 @@
 
 "STARAPPID" : "207474123",
 
-"ADMOB_BANNER" : "",
+"ADMOB_BANNER" : "ca-app-pub-1977787218198319/1623210577",
 "ADMOB_INTER" : "",
 "ADMOB_NATIV" : "",
 
@@ -66,7 +66,7 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Terima kasih Sudah Download \n\n Bantu kita juga ya kasih rating bingtang 5 ya :)",
+"Exit_Popup_Dialog" : "Yuk kak yang Ingin Jadi Youtuber \n\n Bantu kita juga ya dengan rating bingtang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
