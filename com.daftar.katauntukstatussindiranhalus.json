@@ -1,0 +1,1002 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"MOPUB",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"Forex",
+         "high_paying_keyword_2":"Binomo",
+         "high_paying_keyword_3":"Octa FX",
+         "high_paying_keyword_4":"Trading Forex",
+         "high_paying_keyword_5":"Binary Option",
+         "status_app":"0",
+         "link_redirect":"https://play.google.com/store/apps/details?id=com.daftar.katauntukstatussindiranhalus"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Sindiran Halus"
+      }
+   ],
+   "Quotes":[
+      {
+         "id":1,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman akan berebut mendekati kalian saat mereka butuh saja.",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tunjukkan padaku apa yang harus ku lakukan, di saat aku sudah banyak berjuang tapi kau hanya mengacuhkan.",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cinta itu seperti api. Namun, apakah pada akhirnya cinta akan menghangatkan hatimu atau membakar habis rumahmu, kamu tak akan pernah tahu. -Joan Crawford",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kami selalu bergandeng tangan. Karena kalau aku melepaskan tangannya, ia akan langsung berbelanja. -Henny Youngman",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Selalu minta maaf, apakah akan ada banyak kesalahan yang menghadang nantinya.",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika kau bisa mencintai seseorang lebih dari yang pantas ia terima, kau juga bisa menyakitinya lebih dari yang seharusnya ia terima.",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Biarlah ibadahmu menjadi rahasiamu. Sebagaimana kamu merahasiakan dosa dosamu.",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan sok menjauh sama seseorang yang belum berhasil karena saat dia berhasil kamu bukan tipenya lagi.",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku bersedia mencintaimu dalam diam, karena diam berarti tak ada penolakan.",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Seribu cara untuk bisa menjatuhkan, seribu kegagalan juga yang akan kalian dapatkan.",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Setiap gadis itu seperti boneka, entah Barbie atau Annabelle.",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Inilah yang terjadi dalam cinta. Salah satu dari kalian banyak menangis dan kalian berdua pun menjadi sarkastik. -Loorie Moore, Like Life",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman sejati bukan teman yang menjatuhkan, tetapi teman yang menguatkan.",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang bijak mengatakan jangan takut dengan perubahan, tapi mengapa aku takut ketika perasaanmu sudah berubah padaku.",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Ketika saya saya salah apakah anda benar ? Think Again.",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Itu orang yang bermuka dua coba disumbangin satu dengan orang yang suka cari muka.",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan kau perlihatkan kepedulianmu pada mantanmu. Aku tak suka.",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Harapan itu selalu tumbuh setiap saat di kala aku bersanding denganmu. Di saat nggak lagi bersama pun harapan masih ada, tapi tidak sesegar dulu.",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Sebuah hubungan itu sangat mirip dengan Amerika Serikat. Mereka hanya benar-benar berkembang ketika dihadapkan dengan ancaman dari luar. -Laura Pedersen, Best Bet",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Suatu hari nanti, aku akan tinggal di sebuah kota besar, dan yang bisa kau lakukan hanyalah menjadi jahat. -Taylor Swift, Mean",
+         "image_author":"null"
+      },
+      {
+         "id":21,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Mamaku tidak menyukaimu dan dia menyukai semua orang. -Justin Bieber, Love Yourself",
+         "image_author":"null"
+      },
+      {
+         "id":22,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Perselingkuhan adalah bencana besar tapi tidak dirasakannya sama sekali.",
+         "image_author":"null"
+      },
+      {
+         "id":23,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan berkata dia hanya temanmu. Bukankah kita dulu juga berawal dari sebuah pertemanan?",
+         "image_author":"null"
+      },
+      {
+         "id":24,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku lebih memilih sahabat yang mengerti kekuranganku, daripada seseorang kekasih yang selalu menyalahkan kekuranganku.",
+         "image_author":"null"
+      },
+      {
+         "id":25,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Lebih baik di awal cuek, tapi akhirnya perhatian, daripada awalnya perhatian, tapi akhirnya cuek.",
+         "image_author":"null"
+      },
+      {
+         "id":26,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Maaf aku membuat mu malu dengan semua kekuranganku. Tetapi percayalah aku akan berusaha menuruti semua maumu karena aku sayang kamu.",
+         "image_author":"null"
+      },
+      {
+         "id":27,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kala sudah berbicara tentang perasaan, sahabat pun beresiko kena korban tikung menikung.",
+         "image_author":"null"
+      },
+      {
+         "id":28,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman sejati adalah hal yang paling susah ditemukan.",
+         "image_author":"null"
+      },
+      {
+         "id":29,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Selalu tidurlah dengan satu mata terbuka. Jangan pernah menganggap remeh. Teman terbaikmu mungkin saja adalah musuhmu. -Sara Shepard, The Lying Game",
+         "image_author":"null"
+      },
+      {
+         "id":30,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Apa yang bisa disombongkan lagi saat semuanya diambil yang punya.",
+         "image_author":"null"
+      },
+      {
+         "id":31,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kumpulkan hartamu sebanyak-banyaknya. Sombongkan padaku. Nggak ngefek.",
+         "image_author":"null"
+      },
+      {
+         "id":32,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Rindu akan datang di saat yang dicuekin udah jadi pacar orang.",
+         "image_author":"null"
+      },
+      {
+         "id":33,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika kau ingin berbohong tentang perasaanmu, tolong jangan sampai aku tahu. Aku tak sanggup menerimanya.",
+         "image_author":"null"
+      },
+      {
+         "id":34,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Secepat apapun kebohongan berlari , yakinlah bahwa kebenaran akan melewatinya.",
+         "image_author":"null"
+      },
+      {
+         "id":35,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"erkadang aku membutuhkan satu-satunya hal yang bisa kamu sediakan ketidakhadiranmu.",
+         "image_author":"null"
+      },
+      {
+         "id":36,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan iri dengan kesuksesan orang lain, bisa jadi ia bekerja keras tanpa kamu ketahui.",
+         "image_author":"null"
+      },
+      {
+         "id":37,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tidak masalah. Kamu hanya melupakan dirimu yang sebenarnya. Selamat datang kembali.",
+         "image_author":"null"
+      },
+      {
+         "id":38,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan pernah berdebat dengan seseorang yang percaya dengan kebohongannya sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":39,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tak seorang pun mempercayai pembohong. Sekalipun dia menceritakan kebenaran. (Sara Shepard)",
+         "image_author":"null"
+      },
+      {
+         "id":40,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku tidak kehilangan seorang teman pun. Aku hanya baru sadar kalau tak pernah memilikinya.",
+         "image_author":"null"
+      },
+      {
+         "id":41,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Pada akhirnya yang kita ingat bukanlah kata-kata musuhmu, tapi teman kita yang diam.” (Martin Luther King, Jr)",
+         "image_author":"null"
+      },
+      {
+         "id":42,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tak seorang pun mempercayai pembohong. Sekalipun dia menceritakan kebenaran.” Sara Shepard.",
+         "image_author":"null"
+      },
+      {
+         "id":43,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Dakilah gunung sehingga kamu bisa melihat dunia, bukan dunia yang bisa melihatmu. (David McCullough)",
+         "image_author":"null"
+      },
+      {
+         "id":44,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan pernah berdebat dengan seseorang yang percaya dengan kebohongannya sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":45,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman datang dan pergi. Tapi aku tidak menyangka kamu juga.",
+         "image_author":"null"
+      },
+      {
+         "id":46,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Oh, salahku. Maaf sudah mengganggumu. Aku lupa aku hanya ada ketika kamu membutuhkan sesuatu dariku.",
+         "image_author":"null"
+      },
+      {
+         "id":47,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kalau mendadak kamu melupakanku, jangan pernah mencariku lagi. Karena mungkin aku juga sudah melupakanmu. (Pablo Neruda, 'If You Forget Me')",
+         "image_author":"null"
+      },
+      {
+         "id":48,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Ketidakhadiranmu sudah terlalu lama, hingga kehadiranmu kini sudah tidak penting lagi bagiku.",
+         "image_author":"null"
+      },
+      {
+         "id":49,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang yang merendahkan orang lain berarti menunjukkan kelemahan diri sendiri kepada orang lain.",
+         "image_author":"null"
+      },
+      {
+         "id":50,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Anda harus mempertahankan yang terbaik, karena yang baik belumtentu yang terbaik pula.",
+         "image_author":"null"
+      },
+      {
+         "id":51,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Sebab kesetiaan hanya milik orang-orang yang berkelas.",
+         "image_author":"null"
+      },
+      {
+         "id":52,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kamu gak cuek kok, kamu mungkin gak sempet memberi kabar karena sangat sibuk.",
+         "image_author":"null"
+      },
+      {
+         "id":53,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kamu lucu banget, sudah tahu salah malah ngotot.",
+         "image_author":"null"
+      },
+      {
+         "id":54,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika dalam cinta kau mainkan sebuah drama, kelak kau harus siap untuk menjadi pemeran utama dalam sebuah karma.",
+         "image_author":"null"
+      },
+      {
+         "id":55,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika terjadi perdebatan, putuskan egonya, bukan hubungannya.",
+         "image_author":"null"
+      },
+      {
+         "id":56,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Lagi sakit hati banget, ya? Yaudah jangan sedih, diinget aja dulu pernah bikin orang lain sakit hati juga apa enggak. (Raditya Dika)",
+         "image_author":"null"
+      },
+      {
+         "id":57,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cuek tapi ingin diperjuangkan. Berjuang tak sebercanda itu.",
+         "image_author":"null"
+      },
+      {
+         "id":58,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kenapa tissue bermanfaat? Karena cinta tak pernah kemarau. (Sujiwo Tejo)",
+         "image_author":"null"
+      },
+      {
+         "id":59,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jatuh cinta adalah hal yang indah. Tapi cinta bisa membuatmu jatuh kapan saja.",
+         "image_author":"null"
+      },
+      {
+         "id":60,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Mereka yang kita sayangi yang berada di dekat kita bisa lebih melukai diri kita.",
+         "image_author":"null"
+      },
+      {
+         "id":61,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cinta itu seperti api. Namun, apakah pada akhirnya cinta akan menghangatkan hatimu atau membakar habis rumahmu, kamu tak akan pernah tahu. (Joan Crawford)",
+         "image_author":"null"
+      },
+      {
+         "id":62,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kami selalu bergandengan tangan. Karena kalau aku melepaskan tangannya, ia akan langsung berbelanja. (Henny Youngman)",
+         "image_author":"null"
+      },
+      {
+         "id":63,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Setiap gadis itu seperti boneka, entah Barbie atau Annabelle.",
+         "image_author":"null"
+      },
+      {
+         "id":64,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Omonganmu seperti parfum isi ulang, wangi tapi palsu.",
+         "image_author":"null"
+      },
+      {
+         "id":65,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Konon jika jodoh adalah tulang rusuk, maka mantan sudah menjadi fosil alias tulang belulang.",
+         "image_author":"null"
+      },
+      {
+         "id":66,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Hidup ini adalah sandiwara, tapi banyak yang actingnya jelek.",
+         "image_author":"null"
+      },
+      {
+         "id":67,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Single itu prinsip, tapi jomblo itu nasib.",
+         "image_author":"null"
+      },
+      {
+         "id":68,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang sabar disayang tuhan, tapi terlalu sabar malah diinjek orang.”",
+         "image_author":"null"
+      },
+      {
+         "id":69,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Ini hidup saya. Jadi jangan repot-repot ngurusin ya! kamu tahu nama saya, tapi kamu nggak tahu cerita hidup saya.",
+         "image_author":"null"
+      },
+      {
+         "id":70,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan suka ngurusin hidup gue, belum tentu gue mau kurus.",
+         "image_author":"null"
+      },
+      {
+         "id":71,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Apakah perhatian dari keluarga dan orang terdekat tidak cukup? Atau jangan jangan gak diurus? Sampe ngurusin hidup orang.",
+         "image_author":"null"
+      },
+      {
+         "id":72,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan suka ngurusin hidup orang jika drimu saja belum tentu benar.",
+         "image_author":"null"
+      },
+      {
+         "id":73,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kalo mau ngurusin hidup saya, jangan lupa sekalian biaya hidup. Jangan tanggung-tanggung dong.",
+         "image_author":"null"
+      },
+      {
+         "id":74,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Selalu beribadah, selalu berbuat baik, suka menolong, berguna bagi orang-orang lain, dan gak ngurusin hidup orang.",
+         "image_author":"null"
+      },
+      {
+         "id":75,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan sia-siakan oksigen yang kamu hirup cuma buat ngurusin hidup orang.",
+         "image_author":"null"
+      },
+      {
+         "id":76,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang-orang yang membicarakanku di belakang punggungku. Aku hanya termenung dan berpikir, aku baru saja mendapatkan kumpulan penggemar.",
+         "image_author":"null"
+      },
+      {
+         "id":77,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Sebenarnya tidak ada yang benar-benar peduli ketika kamu sedih. Jadi, lebih baik kamu berbahagia saja. (Cynthia Nelms)",
+         "image_author":"null"
+      },
+      {
+         "id":78,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Nggak apa-apa bila kamu tidak menyukaiku. Tidak semua orang memiliki selera yang bagus.",
+         "image_author":"null"
+      },
+      {
+         "id":79,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cuma di-read tapi nggak dibales, susah emang kalau chat sama seleb.",
+         "image_author":"null"
+      },
+      {
+         "id":80,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Ternyata lebih gampang bikin story di Instagram ya daripada ngasih kabar.",
+         "image_author":"null"
+      },
+      {
+         "id":81,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Mengeluh bukanlah solusi.",
+         "image_author":"null"
+      },
+      {
+         "id":82,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Supaya engkau mendapat sahabat, hendaklah diri engkau sendiri sanggup menyempurnakan menjadi sahabat orang.",
+         "image_author":"null"
+      },
+      {
+         "id":83,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang serakah tak akan merasakan lezat dan manisnya kenikmatan. Dia bagai orang makan yang tak pernah merasakan kenyang dan nikmat. (Abdullah Gymnastiar)",
+         "image_author":"null"
+      },
+      {
+         "id":84,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Bumi ini bisa mencukupi tujuh generasi, namun tidak akan pernah cukup untuk tujuh orang yang serakah. (Mahatma Gandhi)",
+         "image_author":"null"
+      },
+      {
+         "id":85,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Sukses itu sebuah mimpi besar yang diwujudkan.",
+         "image_author":"null"
+      },
+      {
+         "id":86,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Musuh paling berbahaya adalah ketika kita berusaha meragukan diri kita sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":87,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Bagi dunia kamu mungkin hanyalah seseorang, tetapi bagi seseorang kamu adalah dunianya.",
+         "image_author":"null"
+      },
+      {
+         "id":88,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tingkatan paling tinggi dalam kebudayaan moral adalah bisa menyadari. (Charles Darwin)",
+         "image_author":"null"
+      },
+      {
+         "id":89,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika kamu berpikir kamu terlalu kecil untuk membuat sebuah perubahan, cobalah tidur di ruangan dengan seekor nyamuk. (Dalai Lama)",
+         "image_author":"null"
+      },
+      {
+         "id":90,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan pernah mengukur tingginya sebuah gunung sampai kau mendakinya sampai puncak. Nantinya kamu akan melihat betapa rendah ketinggiannya. (Dag Hammarskjold)",
+         "image_author":"null"
+      },
+      {
+         "id":91,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang sombong ditandai dengan tatapan mata merendahkan dan ucapan yang meninggikan diri sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":92,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Langit tak perlu menjelaskan kenapa dia tinggi.",
+         "image_author":"null"
+      },
+      {
+         "id":93,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang bijak akan merasa malu jika tindakannya tidak lebih baik dari kata-katanya.”",
+         "image_author":"null"
+      },
+      {
+         "id":94,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Percayalah, manusia yang sombong akan ditundukkan dan orang yang angkuh akan direndahkan.",
+         "image_author":"null"
+      },
+      {
+         "id":95,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kesombongan tidak menghantarkan kita menuju tempat yang lebih baik, terkadang itu justru mendorong mundur tanpa kita sadari.",
+         "image_author":"null"
+      },
+      {
+         "id":96,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan iri dengan kesuksesan orang lain, bisa jadi ia bekerja keras tanpa kamu ketahui.",
+         "image_author":"null"
+      },
+      {
+         "id":97,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tidak masalah. Kamu hanya melupakan dirimu yang sebenarnya. Selamat datang kembali.",
+         "image_author":"null"
+      },
+      {
+         "id":98,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan pernah berdebat dengan seseorang yang percaya dengan kebohongannya sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":99,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tak seorang pun mempercayai pembohong. Sekalipun dia menceritakan kebenaran.",
+         "image_author":"null"
+      },
+      {
+         "id":100,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku tidak kehilangan seorang teman pun. Aku hanya baru sadar kalau tak pernah memilikinya.",
+         "image_author":"null"
+      },
+      {
+         "id":101,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Pada akhirnya yang kita ingat bukanlah kata-kata musuhmu, tapi teman kita yang diam.” (Martin Luther King, Jr)",
+         "image_author":"null"
+      },
+      {
+         "id":102,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tak seorang pun mempercayai pembohong. Sekalipun dia menceritakan kebenaran.” Sara Shepard.",
+         "image_author":"null"
+      },
+      {
+         "id":103,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Dakilah gunung sehingga kamu bisa melihat dunia, bukan dunia yang bisa melihatmu. (David McCullough)",
+         "image_author":"null"
+      },
+      {
+         "id":104,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jangan pernah berdebat dengan seseorang yang percaya dengan kebohongannya sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":105,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman datang dan pergi. Tapi aku tidak menyangka kamu juga.",
+         "image_author":"null"
+      },
+      {
+         "id":106,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Oh, salahku. Maaf sudah mengganggumu. Aku lupa aku hanya ada ketika kamu membutuhkan sesuatu dariku.",
+         "image_author":"null"
+      },
+      {
+         "id":107,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kalau mendadak kamu melupakanku, jangan pernah mencariku lagi. Karena mungkin aku juga sudah melupakanmu. (Pablo Neruda, 'If You Forget Me')",
+         "image_author":"null"
+      },
+      {
+         "id":108,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Ketidakhadiranmu sudah terlalu lama, hingga kehadiranmu kini sudah tidak penting lagi bagiku.",
+         "image_author":"null"
+      },
+      {
+         "id":109,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang yang merendahkan orang lain berarti menunjukkan kelemahan diri sendiri kepada orang lain.",
+         "image_author":"null"
+      },
+      {
+         "id":110,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cahaya bergerak lebih cepat daripada suara. Inilah sebabnya beberapa orang tampak cerdas sampai mereka berbicara.",
+         "image_author":"null"
+      },
+      {
+         "id":111,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku tidak mendengarkan, tapi teruslah bicara. Aku menikmati cara suaramu memekakkan telinga.",
+         "image_author":"null"
+      },
+      {
+         "id":112,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku bertepuk tangan karena sudah selesai, bukan karena aku menyukainya",
+         "image_author":"null"
+      },
+      {
+         "id":113,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Orang bijak akan merasa malu jika kata-katanya lebih baik daripada tindakannya.",
+         "image_author":"null"
+      },
+      {
+         "id":114,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Seorang pecundang tak tahu apa yang akan dilakukannya jika kalah, tetapi sesumbar tentang apa yang akan dilakukannya jika menang.",
+         "image_author":"null"
+      },
+      {
+         "id":115,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Lebih mudah membohongi seseorang daripada meyakinkannya kalau ia sudah dibohongi. - Mark Twain",
+         "image_author":"null"
+      },
+      {
+         "id":116,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kebohongan yang diceritakan terlalu sering lama-lama akan terasa seperti kebenaran. – Vladimir Lenin",
+         "image_author":"null"
+      },
+      {
+         "id":117,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku suka mendengarkan gosip, aku kagum bagaimana orang-orang bisa tahu hal-hal yang tak kuketahui tentang diriku sendiri.",
+         "image_author":"null"
+      },
+      {
+         "id":118,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kecuali kalau namamu Google, berhenti bertingkah seolah kau tahu segalanya.",
+         "image_author":"null"
+      },
+      {
+         "id":119,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kamu selalu membantuku, ketika kamu diam",
+         "image_author":"null"
+      },
+      {
+         "id":120,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika kamu menuliskan setiap pemikiran yang kamu miliki, kamu akan mendapatkan penghargaan untuk cerita tersingkat yang pernah ada.",
+         "image_author":"null"
+      },
+      {
+         "id":121,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Dia memiliki cukup kecerdasan untuk membuka mulut ketika ingin makan, tapi tentu saja tidak lebih dari itu”. – P.G. Wodehouse",
+         "image_author":"null"
+      },
+      {
+         "id":122,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kita tidak membutuhkan kamera CCTV di rumah kita. Tetangga dan kerabat sudah cukup.",
+         "image_author":"null"
+      },
+      {
+         "id":123,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Mungkin kamu perlu mulai makan makeup, jadi kamu bisa membuat dirimu cantik dari dalam sekaligus.",
+         "image_author":"null"
+      },
+      {
+         "id":124,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Cermin tidak bisa bicara, beruntung untukmu mereka juga tidak bisa tertawa.",
+         "image_author":"null"
+      },
+      {
+         "id":125,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku tidak punya energi untuk berpura-pura menyukaimu hari ini.",
+         "image_author":"null"
+      },
+      {
+         "id":126,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku akan menyuruhmu pergi ke neraka, tapi aku bekerja di sana dan tidak ingin melihat cangkir jelekmu setiap hari.",
+         "image_author":"null"
+      },
+      {
+         "id":127,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Seluruh tujuan mengirim teks adalah untuk mendapatkan balasan dalam hitungan detik atau menit, jika tidak, aku akan mengirim surat melalui pos.",
+         "image_author":"null"
+      },
+      {
+         "id":128,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Pacarku sangat pandai bermain petak umpet. Aku sampai sekarang belum menemukannya.",
+         "image_author":"null"
+      },
+      {
+         "id":129,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tidak apa-apa jika kamu tidak menyukaiku. Tidak semua orang memiliki selera yang baik.",
+         "image_author":"null"
+      },
+      {
+         "id":130,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Kamu terlihat baik ketika matamu tertutup, tetapi kamu terlihat terbaik saat mataku tertutup.",
+         "image_author":"null"
+      },
+      {
+         "id":131,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika aku berjanji akan merindukanmu, apakah kamu akan pergi?",
+         "image_author":"null"
+      },
+      {
+         "id":132,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Aku tak butuh teman yang berubah saat aku berubah dan mengangguk saat aku mengangguk. Bayanganku bisa melakukannya dengan lebih baik.",
+         "image_author":"null"
+      },
+      {
+         "id":133,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Contohlah tukang parkir. Walaupun punya banyak mobil, dia nggak pernah sombong karena dia tahu semua itu hanya titipan.",
+         "image_author":"null"
+      },
+      {
+         "id":134,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Hanya karena aku tidak peduli bukan berarti aku tidak mengerti.",
+         "image_author":"null"
+      },
+      {
+         "id":135,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Jika karma tidak memukulmu, aku dengan senang hati akan melakukannya.",
+         "image_author":"null"
+      },
+      {
+         "id":136,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Omonganmu kaya parfum isi ulang, wangi tapi palsu.",
+         "image_author":"null"
+      },
+      {
+         "id":137,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Teman sejati akan menusukmu di depan. - Oscar Wilde",
+         "image_author":"null"
+      },
+      {
+         "id":138,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Tak perlu mengkhawatirkan mereka yang membicarakanmu di belakang. Mereka ada di belakangmu karena suatu alasan.",
+         "image_author":"null"
+      },
+      {
+         "id":139,
+         "name_category":"Sindiran Halus",
+         "author":"Sindiran Halus",
+         "quotes":"Sayang, kalau kamu mau bermuka dua, paling tidak buatlah salah satunya terlihat cantik. Marilyn Monroe.",
+         "image_author":"null"
+      }
+   ]
+}
