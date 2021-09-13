@@ -35,7 +35,7 @@
 
 "STARAPPID" : "207474123",
 
-"ADMOB_BANNER" : "",
+"ADMOB_BANNER" : "ca-app-pub-1977787218198319/4962402358",
 "ADMOB_INTER" : "",
 "ADMOB_NATIV" : "",
 
@@ -55,7 +55,7 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4289665",
+"UNITY_GAME_ID" : "4306177",
 "UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "",
