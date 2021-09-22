@@ -1,15 +1,15 @@
 {
    "Ads":[
       {
-         "select_main_ads":"ADMOB",
-         "select_backup_ads":"IRON",
-         "main_ads_banner":"ca-app-pub-1977787218198319/1567465712",
-         "main_ads_intertitial":"",
+         "select_main_ads":"IRON",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"DefaultBanner",
+         "main_ads_intertitial":"DefaultInterstitial",
          "backup_ads_banner":"DefaultBanner",
          "backup_ads_intertitial":"DefaultInterstitial",
          "interval_intertitial":3,
-         "initialize_sdk":"",
-         "initialize_sdk_backup_ads":"10fd6c9f5",
+         "initialize_sdk":"10fd6c9f5",
+         "initialize_sdk_backup_ads":"",
          "high_paying_keyword_1":"Forex",
          "high_paying_keyword_2":"Binomo",
          "high_paying_keyword_3":"OCTAFX",
