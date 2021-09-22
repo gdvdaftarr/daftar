@@ -7,7 +7,7 @@
          "main_ads_intertitial":"DefaultInterstitial",
          "backup_ads_banner":"DefaultBanner",
          "backup_ads_intertitial":"DefaultInterstitial",
-         "interval_intertitial":3,
+         "interval_intertitial":2,
          "initialize_sdk":"10fd6c9f5",
          "initialize_sdk_backup_ads":"",
          "high_paying_keyword_1":"Forex",
