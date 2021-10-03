@@ -18,11 +18,11 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "UNITY",
+"PENGATURAN_IKLAN_banner" : "APPLOVIN",
 "PENGATURAN_IKLAN_inter" : "APPLOVIN",
-"PENGATURAN_IKLAN_native" : "",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 3,
+"INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : true,
@@ -58,7 +58,7 @@
 "UNITY_GAME_ID" : "4306171",
 "UNITY_TEST_MODE" : "false",
 
-"APPLOVIN_BANNER_ID" : "",
+"APPLOVIN_BANNER_ID" : "db4cb752420a8154",
 "APPLOVIN_INTERSTITIAL_ID" : "c417a9c396d86ce1",
 
 "Button_Start" : "START",
