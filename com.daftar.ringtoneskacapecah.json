@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "5",
+      "pengaturan_iklan" : "4",
       "interval_intertitial": 2,
       "intertitial_admob":"ca-app-pub-3940256099942544/1033173712",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
@@ -10,13 +10,13 @@
       "status":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.daftar.ringtoneskacapecah",
       "startappid":"123456789",
-      "mopub_banner":"",
-      "mopub_inter":"",
+      "mopub_banner":"e26be4309bc140138db1c0271d98128f",
+      "mopub_inter":"6bcab3969dbd43b6a88c81894436d537",
       "unityID":"4248527",
       "unity_inter":"interstitial",
       "unity_banner":"banner",
-      "fan_inter":"981545408591412_999151030164183",
-      "fan_banner_native":"981545408591412_2709037092508893",
+      "fan_inter":"",
+      "fan_banner_native":"",
       "more_app":"https://play.google.com/store/apps/developer?id=Daftar"
 
 
