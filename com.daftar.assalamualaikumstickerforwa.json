@@ -1,8 +1,8 @@
 {
   "Ads": [
   {
-   "select_ads": "UNITY",
-    "select_backup_ads": "",
+   "select_ads": "APPLOVIN",
+    "select_backup_ads": "MOPUB",
     "backup_mode": "0",
     "status_app": "0",
     "link_redirect": "https://play.google.com/store/apps/details?id=com.daftar.assalamualaikumstickerforwa",
@@ -14,11 +14,11 @@
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner": "YOUR_PLACEMENT_ID",
-    "mopub_banner": "",
-    "mopub_inter": "",
+    "mopub_banner": "c7c8519a26f34882a63f885af11967cc",
+    "mopub_inter": "de8c9864cb7646a9bf9d9ac170877686",
     "mopub_reward":"",
-    "applovin_banner": "",
-    "applovin_inter": "",
+    "applovin_banner": "0518da9bca6f2c4c",
+    "applovin_inter": "06f08304d67c5406",
     "applovin_reward":"",
     "unityID":"4250159",
     "unity_inter":"interstitial",
