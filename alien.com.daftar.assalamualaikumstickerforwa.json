@@ -9,7 +9,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_reward":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -19,11 +19,11 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-    "mode_promo":"",  
-    "icon_promo":"",
-    "title_promo":"",
-    "description-promo":"",
-    "install_promo":""
+    "mode_promo":"1",  
+    "icon_promo":"https://yt3.ggpht.com/ytc/AAUvwnguebvUNlTZ921iEyQ6VTWeL2hpqDFFYCicfYPx=s900-c-k-c0x00ffffff-no-rj",
+    "title_promo":"AlienDroid",
+    "description-promo":"1st - The Big Marketplace Source Code for Monetize Mobile Application on Indonesia",
+    "install_promo":"https://aliendro.id/"
    
 
   }
