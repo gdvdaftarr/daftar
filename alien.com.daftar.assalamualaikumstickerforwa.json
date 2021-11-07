@@ -2,7 +2,7 @@
    "Ads":[
       {
          "select_main_ads":"ADMOB",
-         "select_backup_ads":"APPLOVIN-D",
+         "select_backup_ads":"ADMOB",
          "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
          "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
          "main_ads_reward":"",
@@ -19,7 +19,7 @@
          "high_paying_keyword_5":"",
          "status_app":"0",
          "link_redirect":"https://",
-         "mode_promo":"1",
+         "mode_promo":"0",
          "icon_promo":"https://yt3.ggpht.com/ytc/AAUvwnguebvUNlTZ921iEyQ6VTWeL2hpqDFFYCicfYPx=s900-c-k-c0x00ffffff-no-rj",
          "title_promo":"AlienDroid",
          "description-promo":"1st - The Big Marketplace Source Code for Monetize Mobile Application on Indonesia",
