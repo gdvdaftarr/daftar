@@ -1,16 +1,16 @@
 {
    "Ads":[
       {
-         "select_main_ads":"ADMOB",
-         "select_backup_ads":"ADMOB",
-         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "select_main_ads":"APPLOVIN-D",
+         "select_backup_ads":"APPLOVIN-M",
+         "main_ads_banner":"",
+         "main_ads_intertitial":"",
          "main_ads_reward":"",
-         "backup_ads_banner":"db4d5e8718b97d78",
-         "backup_ads_intertitial":"518cd97722c60b52",
-         "backup_ads_reward":"",
-         "interval_intertitial":1,
-         "initialize_sdk":"107355779",
+         "backup_ads_banner":"0518da9bca6f2c4c",
+         "backup_ads_intertitial":"06f08304d67c5406",
+         "backup_ads_reward":"b6a7f09ea8f28fa5",
+         "interval_intertitial":2,
+         "initialize_sdk":"",
          "initialize_sdk_backup_ads":"",
          "high_paying_keyword_1":"",
          "high_paying_keyword_2":"",
@@ -19,11 +19,11 @@
          "high_paying_keyword_5":"",
          "status_app":"0",
          "link_redirect":"https://",
-         "mode_promo":"0",
-         "icon_promo":"",
-         "title_promo":"",
-         "description-promo":"",
-         "install_promo":""
+         "mode_promo":"1",
+         "icon_promo":"https://daftarprivacypolicy.files.wordpress.com/2021/11/iconstatusislami.png",
+         "title_promo":"Aplikasi Kata Bijak Islami",
+         "description-promo":"Inspirasi Kata-Kata Bijak Islami",
+         "install_promo":"https://play.google.com/store/apps/details?id=com.daftar.katabijakislamistatuswa"
       }
    ],
    "sticker_packs":[
