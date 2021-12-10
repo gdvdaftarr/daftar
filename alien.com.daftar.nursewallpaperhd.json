@@ -1,0 +1,684 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":[
+      {
+         "id":1,
+         "title":"",
+         "image":"",
+         "link":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"",
+         "image":""
+      }
+  ],
+
+  "Data":
+  [
+    {
+         "id":1,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse1.jpg"
+      },
+      {
+         "id":2,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse2.jpg"
+      },
+      {
+         "id":3,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse3.jpg"
+      },
+      {
+         "id":4,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse4.jpg"
+      },
+      {
+         "id":5,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse5.jpg"
+      },
+      {
+         "id":6,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse6.jpg"
+      },
+      {
+         "id":7,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse7.jpg"
+      },
+      {
+         "id":8,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse8.jpg"
+      },
+      {
+         "id":9,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse9.jpg"
+      },
+      {
+         "id":10,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse10.jpg"
+      },
+      {
+         "id":11,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse11.jpg"
+      },
+      {
+         "id":12,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse12.jpg"
+      },
+      {
+         "id":13,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse13.jpg"
+      },
+      {
+         "id":14,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse14.jpg"
+      },
+      {
+         "id":15,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse15.jpg"
+      },
+      {
+         "id":16,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse16.jpg"
+      },
+      {
+         "id":17,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse17.jpg"
+      },
+      {
+         "id":18,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse18.jpg"
+      },
+      {
+         "id":19,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse19.jpg"
+      },
+      {
+         "id":20,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse20.jpg"
+      },
+      {
+         "id":21,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse21.jpg"
+      },
+      {
+         "id":22,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse22.jpg"
+      },
+      {
+         "id":23,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse23.jpg"
+      },
+      {
+         "id":24,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse24.jpg"
+      },
+      {
+         "id":25,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse25.jpg"
+      },
+      {
+         "id":26,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse26.jpg"
+      },
+      {
+         "id":27,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse27.jpg"
+      },
+      {
+         "id":28,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse28.jpg"
+      },
+      {
+         "id":29,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse29.jpg"
+      },
+      {
+         "id":30,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse30.jpg"
+      },
+      {
+         "id":31,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse31.jpg"
+      },
+      {
+         "id":32,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse32.jpg"
+      },
+      {
+         "id":33,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse33.jpg"
+      },
+      {
+         "id":34,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse34.jpg"
+      },
+      {
+         "id":35,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse35.jpg"
+      },
+      {
+         "id":36,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse36.jpg"
+      },
+      {
+         "id":37,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse37.jpg"
+      },
+      {
+         "id":38,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse38.jpg"
+      },
+      {
+         "id":39,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse39.jpg"
+      },
+      {
+         "id":40,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse40.jpg"
+      },
+      {
+         "id":41,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse41.jpg"
+      },
+      {
+         "id":42,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse42.jpg"
+      },
+      {
+         "id":43,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse43.jpg"
+      },
+      {
+         "id":44,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse44.jpg"
+      },
+      {
+         "id":45,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse45.jpg"
+      },
+      {
+         "id":46,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse46.jpg"
+      },
+      {
+         "id":47,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse47.jpg"
+      },
+      {
+         "id":48,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse48.jpg"
+      },
+      {
+         "id":49,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse49.jpg"
+      },
+      {
+         "id":50,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse50.jpg"
+      },
+      {
+         "id":51,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse51.jpg"
+      },
+      {
+         "id":52,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse52.jpg"
+      },
+      {
+         "id":53,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse53.jpg"
+      },
+      {
+         "id":54,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse54.jpg"
+      },
+      {
+         "id":55,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse55.jpg"
+      },
+      {
+         "id":56,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse56.jpg"
+      },
+      {
+         "id":57,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse57.jpg"
+      },
+      {
+         "id":58,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse58.jpg"
+      },
+      {
+         "id":59,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse59.jpg"
+      },
+      {
+         "id":60,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse60.jpg"
+      },
+      {
+         "id":61,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse61.jpg"
+      },
+      {
+         "id":62,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse62.jpg"
+      },
+      {
+         "id":63,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse63.jpg"
+      },
+      {
+         "id":64,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse64.jpg"
+      },
+      {
+         "id":65,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse65.jpg"
+      },
+      {
+         "id":66,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse66.jpg"
+      },
+      {
+         "id":67,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse67.jpg"
+      },
+      {
+         "id":68,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse68.jpg"
+      },
+      {
+         "id":69,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse69.jpg"
+      },
+      {
+         "id":70,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse70.jpg"
+      },
+      {
+         "id":71,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse71.jpg"
+      },
+      {
+         "id":72,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse72.jpg"
+      },
+      {
+         "id":73,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse73.jpg"
+      },
+      {
+         "id":74,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse74.jpg"
+      },
+	  {
+         "id":75,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse75.jpg"
+      },
+      {
+         "id":76,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse76.jpg"
+      },
+      {
+         "id":77,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse77.jpg"
+      },
+      {
+         "id":78,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse78.jpg"
+      },
+      {
+         "id":79,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse79.jpg"
+      },
+      {
+         "id":80,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse80.jpg"
+      },
+      {
+         "id":81,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse81.jpg"
+      },
+      {
+         "id":82,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse82.jpg"
+      },
+      {
+         "id":83,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse83.jpg"
+      },
+      {
+         "id":84,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse84.jpg"
+      },
+      {
+         "id":85,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse85.jpg"
+      },
+      {
+         "id":86,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse86.jpg"
+      },
+      {
+         "id":87,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse87.jpg"
+      },
+      {
+         "id":88,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse88.jpg"
+      },
+      {
+         "id":89,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse89.jpg"
+      },
+      {
+         "id":90,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse90.jpg"
+      },
+      {
+         "id":91,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse91.jpg"
+      },
+      {
+         "id":92,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse92.jpg"
+      },
+      {
+         "id":93,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse93.jpg"
+      },
+      {
+         "id":94,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse94.jpg"
+      },
+      {
+         "id":95,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse95.jpg"
+      },
+      {
+         "id":96,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse96.jpg"
+      },
+      {
+         "id":97,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse97.jpg"
+      },
+      {
+         "id":98,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse98.jpg"
+      },
+      {
+         "id":99,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse99.jpg"
+      },
+      {
+         "id":100,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse100.jpg"
+      },
+      {
+         "id":101,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse101.jpg"
+      },
+      {
+         "id":102,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse102.jpg"
+      },
+      {
+         "id":103,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse103.jpg"
+      },
+      {
+         "id":104,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse104.jpg"
+      },
+      {
+         "id":105,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse105.jpg"
+      },
+      {
+         "id":106,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse106.jpg"
+      },
+      {
+         "id":107,
+         "name_category":"Nurse Wallpaper",
+         "title":"Nurse Wallpaper",
+         "image":"file:///android_asset/image/nurse107.jpg"
+      }
+  ]
+}
