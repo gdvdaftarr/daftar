@@ -1,19 +1,19 @@
 {"Ads": [
     {
-      "select_main_ads": "FALSE",
-      "select_backup_ads":"FALSE",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-8665352681989203/8186531104",
+      "main_ads_intertitial":"ca-app-pub-8665352681989203/9308041086",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Forex",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Binary Option",
+      "high_paying_keyword_4": "Money",
+      "high_paying_keyword_5": "Trading Forex",
       "status_app": "0",
       "link_redirect": "https://"
     }
