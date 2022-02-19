@@ -1,12 +1,12 @@
 {"Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"UNITY",
       "main_ads_banner": "ca-app-pub-8665352681989203/8186531104",
-      "main_ads_intertitial":"ca-app-pub-8665352681989203/9308041086",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 3,
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"4248527",
+      "backup_ads_intertitial":"4248527",
+      "interval_intertitial": 2,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "Forex",
